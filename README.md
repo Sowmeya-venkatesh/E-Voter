@@ -1,5 +1,3 @@
-# E-Voter
-
 # E-VOTER (An Voting Application)
 
 ## Introduction
